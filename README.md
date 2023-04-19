@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/iQ32sCz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Submitting tickets in osTicket as an end user to get help for various problems using.  Loging in to osTicket as a helpdesk member and seeing all the ticket request that have been sent in. This was a way to verify that osTicket was set up correctly.  Helpdesk request where able to be sent by end users and recieved by the helpdesk team. 
+Submitting tickets in osTicket as an end user to get help for various problems using.  Logging in to osTicket as a helpdesk member and seeing all the ticket requests that have been sent in. This was a way to verify that osTicket was set up correctly.  Helpdesk requests were able to be sent by end users and received by the helpdesk team.
 </p>
 <br />
 
@@ -41,7 +41,7 @@ Submitting tickets in osTicket as an end user to get help for various problems u
 <img src="https://i.imgur.com/7H0nUV5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Opening a ticket that was recieved as a supervisor and setting the Service Level Agreement based on the severity of the issue. I then logged in as two other users to  make notes that show that the ticket is being worked on.  Eventually the proplem was resolved by the manager due to how important it was to get the ticket resolved quickly.
+Opening a ticket that was received as a supervisor and setting the Service Level Agreement(SLA) based on the severity of the issue. I then logged in as two other users to make notes that show that the ticket is being worked on.  Eventually the problem was resolved by the manager due to how important it was to get the ticket resolved quickly.
 </p>
 <br />
 
@@ -49,7 +49,7 @@ Opening a ticket that was recieved as a supervisor and setting the Service Level
 <img src="https://i.imgur.com/Q8I6vrt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum do333333333333333333333333333333333333333333333333333333idunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This slide illustrates how certain tasks can be assigned to other employees.  Notes are shown to demonstrate how an issue like this can be resolved under certain circumstances.  This SLA was changed to a higher level because it was the CEO's computer.
 </p>
 <br />
 
