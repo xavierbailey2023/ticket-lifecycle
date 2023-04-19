@@ -57,7 +57,7 @@ This slide illustrates how certain tasks can be assigned to other employees.  No
 <img src="https://i.imgur.com/ayO6zNs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum do444444444444444444444444444444444444444444444444444444idunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Another example on assigning a staff member to a ticket so that issues tickets can be closed quickly and efficiently. 
 </p>
 <br />
 
@@ -65,6 +65,6 @@ Lorem ipsum do444444444444444444444444444444444444444444444444444444idunt ut lab
 <img src="https://i.imgur.com/voQVONd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum do555555555555555555555555555555555555555555dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+All tickets that were completed were marked as resolve so that the team could see that no other work is needed for these tickets.  This is important so that all employees’ time can be used efficiently.
 </p>
 <br />
