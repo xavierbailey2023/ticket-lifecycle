@@ -41,7 +41,7 @@ Submitting tickets in osTicket as an end user to get help for various problems u
 <img src="https://i.imgur.com/7H0nUV5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit22222222222222222222222222222222222222222or incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Opening a ticket that was recieved as a supervisor and setting the Service Level Agreement based on the severity of the issue. I then logged in as two other users to  make notes that show that the ticket is being worked on.  Eventually the proplem was resolved by the manager due to how important it was to get the ticket resolved quickly.
 </p>
 <br />
 
